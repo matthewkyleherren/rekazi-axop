@@ -1,0 +1,31 @@
+
+#         ,-.
+#        / \  `.  __..-,O
+#       :   \ --''_..-'.'
+#       |    . .-' `. '.
+#       :     .     .`.'
+#        \     `.  /  ..
+#         \      `.   ' .
+#          `,       `.   \
+#         ,|,`.        `-.\
+#        '.||  ``-...__..-`
+#         |  |
+#         |__|
+#         /||\
+#        //||\\
+#       // || \\
+#    __//__||__\\__
+#   '--------------' SSt
+
+User-agent: *
+Disallow: /*__*
+Disallow: /display/
+Disallow: /charts/*
+Disallow: /embed/*
+Disallow: /api/*
+
+Sitemap: https://radar.cloudflare.com/sitemaps/sitemap.xml
+Sitemap: https://radar.cloudflare.com/sitemaps/sitemap_countries.xml
+Sitemap: https://radar.cloudflare.com/sitemaps/sitemap_reports.xml
+Sitemap: https://radar.cloudflare.com/sitemaps/sitemap_domains.xml
+Sitemap: https://radar.cloudflare.com/sitemaps/sitemapindex_asns.xml
